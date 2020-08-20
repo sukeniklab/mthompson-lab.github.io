@@ -3495,8 +3495,9 @@ nav .navWide .wideDiv {
 }
 
 nav .navWide .wideDiv a {
+	font: 15px Verdana, sans-serif;
 	text-decoration: none;
-	text-transform: capitalize;
+	text-transform: uppercase;
 	display: inline-block;
 	/*Adjust padding to increase/decrease the space between links.*/
 	padding: 0 2em;
@@ -3514,8 +3515,9 @@ nav	.navNarrow i {
 }
 
 nav .navNarrow .narrowLinks a {
+	font: 15px Verdana, sans-serif;
 	text-decoration: none;
-	text-transform: capitalize;
+	text-transform: uppercase;
 	display: block;
 	float: right;
 	clear: left;

@@ -1,36 +1,15 @@
-- name: Michael Thompson
-  image: /images/members/MCT_headshot.jpg
+- name: Shahar Sukenik
+  image: /images/members/shahar.jpg
   position: Principal Investigator
   pronouns: he/him/his
-  email: mthompson30 (at) ucmerced.edu
-  scholar: KDvVpWYAAAAJ
-  twitter: MThompsonLab
-  orcid: 0000-0002-6099-2027
-  description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. <br/><br/>
+  email: ssukenik (at) ucmerced.edu
+  scholar: MID9HCgAAAAJ
+  twitter: shaharsu
+  orcid: 0000-0003-3855-9574
+  description: ""
 
-        He was first introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
-        where he was a research assistant in [Tom Alber](https://news.berkeley.edu/2014/04/04/berkeley-professor-thomas-alber-dies-at-60/)’s laboratory. \
-        In the Alber lab, he worked on efforts to determine the structures of signaling proteins that are required for virulence in <em>Mycobacterium tuberculosis</em>. <br/><br/>
-
-        In 2014, he received his Ph.D. in [Biochemistry and Molecular Biology](http://bmsb.chem.ucla.edu/) from UCLA under the direction of [Dr. Todd Yeates](http://yeateslab.mbi.ucla.edu/). \
-        As a graduate student, Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
-        key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
-        His work revealed the role of conformational polymorphism in defining specialized functions of microcompartment shell proteins, including [ligand binding](/publications#25102080) and [allosteric regulation](/publications#25752492). <br/><br/>
-
-        Mike joined [James Fraser's lab](https://fraserlab.com/) at [UCSF](https://ucsf.edu/) as a postdoc, where he helped develop new methods that combine temperature perturbations with static and time-resolved \
-        structural measurements to provide detailed insight into the conformational landscapes of biological macromolecules. These new methods, \
-        including [multi-temperature](/publications#26422513) and [temperature-jump](/publications#31527847) X-ray crystallography and solution scattering, are being applied by the Thompson lab and others to understand how \
-        protein function is modulated by genetic mutations, by interactions with other molecules, and by other physical stimuli. As a postdoctoral fellow, \
-        Mike was supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](http://www.bioxfel.org/) (NSF), \
-        a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](http://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](http://pbbr.ucsf.edu/). <br/><br/>
-
-        In 2020, Mike was appointed as Assistant Professor in the [Department of Chemistry and Chemical Biology](https://chemistry.ucmerced.edu/) at [UC Merced](https://www.ucmerced.edu/)."
-
-- name: Otto Thompson, Do.G.
-  image: /images/members/otto.jpg
-  position: Moral support
-  pronouns: he/him/his
-  description: "Otto completed his interdisciplinary research training in 2005. His contributions to science since then have been numerous, \
-  including his development of innovative methods for detection of crumbs and other microscopic snacks from floor licking and sniffing \
-  data with very low signal-to-noise. He currently studies proteins (mainly chicken and beef, but sometimes lamb or salmon), and examines, \
-  at high resolution, the landscapes of orthopedic pet beds. His office hours are from 7AM-7:15AM daily - do not disturb during naps."
+- name: Nora Shamoon
+  image: /images/members/Nora.jpg
+  position: Undergraduate researcher
+  pronouns: she/her/hers
+  description: ""
