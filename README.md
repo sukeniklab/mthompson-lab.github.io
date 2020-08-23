@@ -1,4 +1,4 @@
-# mthompson-lab.github.io
+# sukeniklab.github.io
 
 Welcome to the source code for the website of the Thompson Lab, located at UC Merced. 
 
