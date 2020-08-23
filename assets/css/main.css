@@ -1522,6 +1522,10 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 	text-decoration: none;
 }
 
+h1 {
+	font-size: 3rem;
+}
+
 h2 {
 	font-size: 1.75rem;
 }
@@ -2995,6 +2999,7 @@ header p {
 	-webkit-align-items: stretch;
 	-ms-align-items: stretch;
 	align-items: stretch;
+	border-radius: 50px;
 }
 
 .grid-style > * {
@@ -3010,6 +3015,7 @@ header p {
 
 .grid-style > * {
 	width: 50%;
+		border-radius: 50px;
 }
 
 .grid-style > * {
@@ -3975,8 +3981,8 @@ body.is-mobile .banner > article {
 	position: relative;
 	z-index: auto;
 	width: 100%;
-	height: 100%;
-	background-image: url('../../images/keedyasrc_bg.png');
+	!height: 100%;
+	!background-image: url('/images/slides/banner-2.png');
 	background-size: cover;
 	opacity: 1;
 	top: 0;
@@ -4154,16 +4160,21 @@ body.is-mobile .banner > article {
   padding: 0 4px;
 }
 
-/* Create two equal columns that sits next to each other */
+/* Create four equal columns that sits next to each other */
 .rrcolumn {
-  flex: 50%;
-  width: 100%;
-  padding: 4px 4px;
+  flex: 30%;
+  max-width: 30%;
+  padding: 0 4px;
+}
+
+.rrcolumn-wide {
+  flex: 70%;
+  max-width: 70%;
+  padding: 0 4px;
 }
 
 .rrcolumn img {
   margin-top: 8px;
   vertical-align: middle;
-  horizontal-align: middle;
-  padding: 4px 4px;
+  width: 100%;
 }
