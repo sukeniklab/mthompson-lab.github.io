@@ -123,33 +123,33 @@ bgimage: /images/density_model_banner.jpg
       <div class="grid-style">
         
           <div class="HomepageBox">
-              <div class="homeBox">
-                  <span class="image fit imgfit"><img src="images/bsp_rendering.jpg" alt="" /></span>
-              </div>
+
               <div class="content">
-<div class="row">
+		<div class="row">
         <div class="8u 12u$(small)">
 		<header class="align-justified">
-
-                      <h1>Welcome to the Sukenik Lab!</h1>
-
+                      <h1>Welcome!</h1>
+		</header>
                           
-						<h3 style="text-align: justify;">Our lab studies the interaction between proteins and their surrounding solutions in the test tube and in cells using a combination of live cell imaging, spectroscopy, and computational modeling.</h3>
+						<h3 style="text-align: justify;">Our lab studies the interaction between proteins and their surrounding solutions in the test tube and in cells. We use a combination of live cell imaging, spectroscopy, and computational modeling.</h3>
+						
+						
+						
 						​<span class="links">We are part of the <a href="https://chemistry.ucmerced.edu/">Department of Chemistry & Chemical Biology</a> and the <a href="https://naturalsciences.ucmerced.edu/">School of Natural Sciences</a> at the <a href="https://www.ucmerced.edu/">University of California, Merced</a>.</p>
-						</header>
+
 		</div>
 			
         <div class="4u 12u$(small)">
-				<br>
-				<h3>Latest news from the lab:</h3>
+				<br><br>
+				<header class="align-center"><h3>Latest lab news:</h3></header>
 				{% for post in site.posts %}
 				<header class="align-center" style="padding:0px"><p id="rcorners1" style="font-family:verdana; font-size:11px">{{ post.date | date: "%m-%d-%Y" }} | <a href="{{ post.url }}">{{ post.title }}</a></header>
 				{% if post.short %}
-				<p style="text-align: justify; background-color:#E0E0E0; padding: 5px; font-family:verdana; font-size:11px; margin-bottom: 0;">{{ post.short }}</p>
+				<p style="text-align: justify; background-color:#E0E0E0; padding: 0px 5px; font-family:verdana; font-size:11px; margin-bottom: 0;">{{ post.short }}</p>
 				{% else %}
-				<p style="text-align: justify; background-color:#E0E0E0; padding: 5px; font-family:verdana; font-size:11px; margin-bottom: 0;"{{ post.content }}</p>
+				<p style="text-align: justify; background-color:#E0E0E0; padding: 0px 5px; font-family:verdana; font-size:11px; margin-bottom: 0;"{{ post.content }}</p>
 				{% endif %}
-				<p id="rcorners2" style="text-align: justify; background-color:#E0E0E0; padding: 0px 10px; font-family:verdana; font-size:10px; margin-top: 0;"><a href="{{ post.url }}">more...</a></p>
+				<p id="rcorners2" style="text-align: justify; background-color:#E0E0E0; padding: 3px 10px; font-family:verdana; font-size:10px; margin-top: 0; "><a href="{{ post.url }}">Read more...</a></p>
 			{% endfor %}
 		</div>
 		

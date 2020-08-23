@@ -24,7 +24,7 @@ bgimage: /images/ensemble_banner_tall_v2.jpg
         
     </div>
 
-    <div class="9u$ 12u$(small)">
+    <div class="6u$ 12u$(small)">
 	<em><span class="memberDetail"><img class="inline-block" src="/images/email-logo.png" width=20> {{person.email}}</span></em> <br>
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/images/orcid-id.png" width=20></a>
@@ -40,7 +40,6 @@ bgimage: /images/ensemble_banner_tall_v2.jpg
         {% endif %}
 		<br>
 			{{person.description | markdownify}}
-		<br>
 		{% if person.fact %}
 			<u>Random fact:</u> {{person.fact}}
 		{% endif %}
