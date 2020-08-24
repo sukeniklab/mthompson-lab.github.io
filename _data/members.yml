@@ -18,6 +18,7 @@
   scholar: 
   twitter: Nora__Margaret
   orcid: 0000-0002-1466-1286
+  scholar
   description: ""
   fact: "hello world!"
 
@@ -52,7 +53,7 @@
   email: pkoenig2 (at) ucmerced.edu
 
 - name: Adam Rhetta
-  image: /images/members/Adam.jpg
+  image: /images/members/Adam.png
   position: Undergraduate student
   pronouns: he/him/his
   email: arhetta (at) ucmerced.edu
