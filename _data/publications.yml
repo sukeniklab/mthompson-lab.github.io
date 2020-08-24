@@ -119,7 +119,7 @@
       url: http://rodriguez.chem.ucla.edu/
 
 - title: "**Phase Separation of YAP in Osmotic Stress Transiently Shuts Down Transcription and Primes YAP for Long-term Target Gene Expression**"
-  citation: "**SD Cai, S Sukenik, D Feliciano, M Gruebele, J Lippincott-Schwartz"
+  citation: "**D Cai, S Sukenik, D Feliciano, M Gruebele, J Lippincott-Schwartz"
   date: 201812
   image: 
   #pmid:
@@ -131,6 +131,18 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**Cell volume controls protein stability and compactness of the unfolded state**"
+  citation: "**Yuhan Wang, Shahar Sukenik, Caitlin M Davis, Martin Gruebele"
+  date: 201810
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.8b08216
+  links:
+    - name: The Journal of Physical Chemistry B
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
 
 
 
