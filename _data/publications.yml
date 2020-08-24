@@ -79,6 +79,32 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**Changes to the Intracellular Milieu Control the Population and Residual Structure of Unfolded Proteins**"
+  citation: "**Yuhang Wang, Caitlin Davis, Alex S Holehouse, Martin Gruebele, Shahar Sukenik"
+  date: 201902
+  image: 
+  #pmid:
+  #pmcid:
+  pdf: https://www.cell.com/biophysj/pdf/S0006-3495(18)32256-2.pdf
+  links:
+    - name: Biophysical Journal
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+- title: "**How Osmolytes Modulate Lipid Interactions**"
+  citation: "**Shahar Sukenik, Shaked Dunsky, Christoph Allolio, Avishai Barnoy, Ilan Shumilin, Daniel Harries"
+  date: 201902
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://www.cell.com/biophysj/pdf/S0006-3495(18)32985-0.pdf
+  links:
+    - name: Biophysical Journal
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
 
 
 
