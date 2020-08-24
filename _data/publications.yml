@@ -66,5 +66,19 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**Phase separation of YAP reorganizes genome topology for long-term YAP target gene expression**"
+  citation: "**Danfeng Cai, Daniel Feliciano, Peng Dong, Eduardo Flores, Martin Gruebele, Natalie Porat-Shliom, Shahar Sukenik, Zhe Liu, Jennifer Lippincott-Schwartz"
+  date: 201912
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://www.biorxiv.org/content/10.1101/438416v2.full 
+  links:
+    - name: Nature Cell Biology
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+
 
 
