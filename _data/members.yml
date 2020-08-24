@@ -10,14 +10,17 @@
   fact: "Lived for three months on an island in the middle of the Zambezi river."
   
 
-- name: Nora Shamoon
+- name: Nora M. Shamoon
   image: /images/members/Nora.jpg
   position: Undergraduate researcher
   pronouns: she/her/hers
+  email: nshamoon (at) ucmerced.edu
+  scholar: 
+  twitter: Nora__Margaret
+  orcid: 0000-0002-1466-1286
   description: ""
   fact: "hello world!"
-  email: nshamoon (at) ucmerced.edu
-  
+
 - name: David Moses
   image: /images/members/David.jpg
   position: Graduate student
