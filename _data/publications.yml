@@ -40,4 +40,31 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**Controlling Structural Bias in Intrinsically Disordered Proteins Using Solution Space Scanning**"
+  citation: "**Alex S Holehouse, Shahar Sukenik"
+  date: 202001
+  image: 
+  #pmid:
+  #pmcid:
+  pdf: biorxiv.org/content/biorxiv/early/2019/08/30/752378.full.pdf
+  links:
+    - name: Journal of Chemical Theory and Computation
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+- title: "**Solution Space Fingerprints of Intrinsically Disordered Regions**"
+  citation: "**David Moses, Nora Shamoon, Shahar Sukenik"
+  date: 202002
+  image: 
+  #pmid:
+  #pmcid:
+  pdf: 
+  links:https://www.cell.com/biophysj/fulltext/S0006-3495(19)31436-5
+    - name: Biophysical Journal
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+
 
