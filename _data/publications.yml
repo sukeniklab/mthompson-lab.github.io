@@ -105,6 +105,34 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**Biophysical Chemistry**"
+  citation: "**Shahar Sukenik, Daniel Harries, Assaf Friedler"
+  date: 201900
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:
+  links:
+    - name: Reference Module in Chemistry, Molecular Sciences and Chemical Engineering
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+- title: "**Phase Separation of YAP in Osmotic Stress Transiently Shuts Down Transcription and Primes YAP for Long-term Target Gene Expression**"
+  citation: "**SD Cai, S Sukenik, D Feliciano, M Gruebele, J Lippincott-Schwartz"
+  date: 201812
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:
+  links:https://scholar.google.com/scholar?hl=en&as_sdt=0,5&cluster=7265918865197242157
+    - name: MOLECULAR BIOLOGY OF THE CELL
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+
+
 
 
 
