@@ -183,6 +183,32 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**Phase Separation of YAP Reprograms Cells for Long-term YAP Target Gene Expression**"
+  citation: "**Danfeng Cai, Shahar Sukenik, Daniel Feliciano, Martin Gruebele, Jennifer Lippincott-Schwartz"
+  date: 201801
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://www.biorxiv.org/content/10.1101/438416v1.full
+  links:
+    - name: bioRxiv
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+- title: "**Weak protein–protein interactions in live cells are quantified by cell-volume modulation**"
+  citation: "**Shahar Sukenik, Pin Ren, and Martin Gruebelez"
+  date: 201706
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://www.pnas.org/content/pnas/114/26/6776.full.pdf  links:https://www.pnas.org/content/114/26/6776.short
+    - name: PNAS
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+
 
 
 
