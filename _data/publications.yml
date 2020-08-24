@@ -14,28 +14,28 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- title: "**New paper title**"
-  citation: "**Nora Shamoon"
-  date: 202007
-  image: '/images/pub/thompson_2020_1.jpg'
+- title: "**Probing the Hidden Sensitivity of Intrinsically   Disordered Proteins to their Chemical Environment**"
+  citation: "**David Moses, Feng Yu, Garrett Ginell, Nora M Shamoon, Patrick S Koenig, Alex S Holehouse, Shahar Sukenik"
+  date: 202008
+  image:
   #pmid:
   #pmcid:
-  pdf: '/pdf/thompson_2020_1.pdf'
+  pdf: https://www.biorxiv.org/content/biorxiv/early/ 2020/08/18/2020.08.17.252478.full.pdf
   links:
-    - name: bioRxiv entry
+    - name: bioRxiv 
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
-- title: "**New paper title**"
-  citation: "**Nora Shamoon"
-  date: 202007
-  image: '/images/pub/thompson_2020_1.jpg'
+- title: "**Hydration-dependent phase separation of a prion-like protein regulates seed germination during water stress.**"
+  citation: "**Yanniv Dorone, Steven Boeynaems, Benjamin Jin, Flavia Bossi, Eduardo Flores, Elena Lazarus, Emiel Michiels, Mathias De Decker, Pieter Baatsen, Alex S Holehouse, Shahar Sukenik, Aaron D Gitler, Seung Y Rhee"
+  date: 202008
+  image: 
   #pmid:
   #pmcid:
-  pdf: '/pdf/thompson_2020_1.pdf'
+  pdf: https://www.biorxiv.org/content/biorxiv/early/2020/08/07/2020.08.07.242172.full.pdf
   links:
-    - name: bioRxiv entry
+    - name: bioRxiv 
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
