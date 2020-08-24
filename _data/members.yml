@@ -15,22 +15,22 @@
   position: Undergraduate researcher
   pronouns: she/her/hers
   email: nshamoon (at) ucmerced.edu
-  scholar: 
+  scholar: https://scholar.google.com/citations?user=pbXoitgAAAAJ&hl=en&oi=ao
   twitter: Nora__Margaret
   orcid: 0000-0002-1466-1286
   scholar:
   description: ""
-  fact: "hello world!"
+  fact: "I can speak 3 languages, love baking, spending time outdoors and animals!"
 
 - name: David Moses
   image: /images/members/David.jpg
   position: Graduate student
   pronouns: he/him/his
   email: dmoses5 (at) ucmerced.edu
-  scholar: 
+  scholar: https://scholar.google.com/citations?user=_gcT-UUAAAAJ&hl=en
   twitter: david_c_moses
-  orcid: 
-  description: ""
+  orcid: 0000-0002-5189-5188 
+  description: "David studies how intrinsically disordered proteins respond to changes in the solutions that surround them."
   fact: "hello world!"
 
 - name: Karina Guadalupe
