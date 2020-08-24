@@ -30,7 +30,6 @@
   scholar: 
   twitter: 
   orcid: 
-  scholar
   description: ""
   fact: "hello world!"
 
@@ -40,11 +39,11 @@
   pronouns: she/her/hers
   email: kguadalupe (at) ucmerced.edu
   scholar: 
-  twitter:  
-  orcid: 
+  twitter: the_KarinaG  
+  orcid: 0000-0001-8316-0357 
   scholar:
-  description: ""
-  fact: "hello world!"
+  description: "My project focuses on identifying IDRs that are responsible for sensing and responding to osmotic stress. I leverage genome-wide screens and live cell microscopy coupled with fast perturbation methods to explore IDR sensitivity to osmotic stress."
+  fact: "I love dogs!"
 
 - name: Feng Yu
   image: /images/members/Feng.jpg
@@ -63,7 +62,7 @@
   pronouns: he/him/his
   email: eflores80 (at) ucmerced.edu
   scholar: 
-  twitter:  
+  twitter: eflores_500  
   orcid: 
   description: ""
   fact: "hello world!"
