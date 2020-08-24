@@ -25,17 +25,17 @@ bgimage: /images/ensemble_banner_tall_v2.jpg
     </div>
 
     <div class="6u$ 12u$(small)">
-	<em><span class="memberDetail"><img class="inline-block" src="/images/email-logo.png" width=20> {{person.email}}</span></em> <br>
+	<em><span class="memberDetail"><img class="inline-block" src="images/email-logo.png" width=20> {{person.email}}</span></em> <br>
         {% if person.orcid %}
-          <a href="http://orcid.org"><img class="inline-block" src="/images/orcid-id.png" width=20></a>
+          <a href="http://orcid.org"><img class="inline-block" src="images/orcid-id.png" width=20></a>
           <a id="links" href="http://{{person.orcid}}"><span class="memberDetail"> {{person.orcid}}</span></a> <br>
         {% endif %}
         {% if person.scholar %}
-          <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"  width=20></a>
+          <a href="https://scholar.google.com/"><img class="inline-block" src="images/google-scholar.png"  width=20></a>
           <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
         {% endif %}
         {% if person.twitter %}
-          <a href="http://twitter.com/"><img class="inline-block" src="/images/twitter_logo.png" width=20></a>
+          <a href="http://twitter.com/"><img class="inline-block" src="images/twitter_logo.png" width=20></a>
           <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail">@{{person.twitter}} </span></a> <br>
         {% endif %}
 		<br>
