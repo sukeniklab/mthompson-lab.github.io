@@ -86,5 +86,5 @@
   scholar: 
   twitter:  
   orcid: 
-  description: ""
+  description: "The goal of my project is to engineer an automated open Source pipette and microscopy platform, via the combination of an Opentrons OT-2 with a Zeiss inverted microscope. This will give the lab access to a fully automated system to do both media perturbations and imaging simultaneously, which will enable precise and reproduceable experiments."
   fact: "hello world!"
