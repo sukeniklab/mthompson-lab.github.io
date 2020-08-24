@@ -144,6 +144,47 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**In-cell titration of small solutes controls protein stability and aggregation**"
+  citation: "**Shahar Sukenik, Mohammed Salam, Yuhan Wang, Martin Gruebele"
+  date: 201807
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://pubs.acs.org/doi/full/10.1021/jacs.8b04809
+  links:
+    - name: Journal of the American Chemical Society
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+- title: "**The Role of TMAO in Protein Folding: A Joint Experimental and Simulation Study**"
+  citation: "**Mayank M Boob, Shahar Sukenik, Taras V Pogorelov, Martin Gruebele"
+  date: 201802
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://www.cell.com/biophysj/pdf/S0006-3495(17)31564-3.pdf
+  links:
+    - name: Biophysical Journal
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+- title: "**How does solvation in the cell affect protein folding and binding?**"
+  citation: "**Caitlin M Davis, Martin Gruebele, Shahar Sukenik"
+  date: 201802
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:https://www.sciencedirect.com/science/article/abs/pii/S0959440X17301112
+  links:
+    - name: Current opinion in structural biology
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
+
+
 
 
 
