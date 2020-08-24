@@ -60,7 +60,7 @@
   #pmid:
   #pmcid:
   pdf: 
-  links:https://www.cell.com/biophysj/fulltext/S0006-3495(19)31436-5
+  links: https://www.cell.com/biophysj/fulltext/S0006-3495(19)31436-5
     - name: Biophysical Journal
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
@@ -72,7 +72,7 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://www.biorxiv.org/content/10.1101/438416v2.full 
+  pdf: https://www.biorxiv.org/content/10.1101/438416v2.full 
   links:
     - name: Nature Cell Biology
       url: https://yeateslab.mbi.ucla.edu/
@@ -98,7 +98,7 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://www.cell.com/biophysj/pdf/S0006-3495(18)32985-0.pdf
+  pdf: https://www.cell.com/biophysj/pdf/S0006-3495(18)32985-0.pdf
   links:
     - name: Biophysical Journal
       url: https://yeateslab.mbi.ucla.edu/
