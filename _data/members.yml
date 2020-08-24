@@ -41,7 +41,7 @@
   scholar: 
   twitter: the_KarinaG  
   orcid: 0000-0001-8316-0357 
-  scholar: https://scholar.google.com/citations?user=pbXoitgAAAAJ&hl=en&oi=ao
+  scholar: 
   description: "My project focuses on identifying IDRs that are responsible for sensing and responding to osmotic stress. I leverage genome-wide screens and live cell microscopy coupled with fast perturbation methods to explore IDR sensitivity to osmotic stress."
   fact: "I love dogs!"
 
@@ -87,4 +87,4 @@
   twitter:  
   orcid: 
   description: "The goal of my project is to engineer an automated open Source pipette and microscopy platform, via the combination of an Opentrons OT-2 with a Zeiss inverted microscope. This will give the lab access to a fully automated system to do both media perturbations and imaging simultaneously, which will enable precise and reproduceable experiments."
-  fact: "hello world!"
+  fact: "I like to build and paint models in my free time."
