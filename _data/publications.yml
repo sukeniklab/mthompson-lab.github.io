@@ -125,7 +125,7 @@
   #pmid:
   #pmcid:
   pdf:
-  links:https://scholar.google.com/scholar?hl=en&as_sdt=0,5&cluster=7265918865197242157
+  links: https://scholar.google.com/scholar?hl=en&as_sdt=0,5&cluster=7265918865197242157
     - name: MOLECULAR BIOLOGY OF THE CELL
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
@@ -137,7 +137,7 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.8b08216
+  pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.8b08216
   links:
     - name: The Journal of Physical Chemistry B
       url: https://yeateslab.mbi.ucla.edu/
@@ -150,7 +150,7 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://pubs.acs.org/doi/full/10.1021/jacs.8b04809
+  pdf: https://pubs.acs.org/doi/full/10.1021/jacs.8b04809
   links:
     - name: Journal of the American Chemical Society
       url: https://yeateslab.mbi.ucla.edu/
@@ -163,7 +163,7 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://www.cell.com/biophysj/pdf/S0006-3495(17)31564-3.pdf
+  pdf: https://www.cell.com/biophysj/pdf/S0006-3495(17)31564-3.pdf
   links:
     - name: Biophysical Journal
       url: https://yeateslab.mbi.ucla.edu/
@@ -176,7 +176,7 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://www.sciencedirect.com/science/article/abs/pii/S0959440X17301112
+  pdf: https://www.sciencedirect.com/science/article/abs/pii/S0959440X17301112
   links:
     - name: Current opinion in structural biology
       url: https://yeateslab.mbi.ucla.edu/
@@ -189,7 +189,7 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://www.biorxiv.org/content/10.1101/438416v1.full
+  pdf: https://www.biorxiv.org/content/10.1101/438416v1.full
   links:
     - name: bioRxiv
       url: https://yeateslab.mbi.ucla.edu/
@@ -202,7 +202,8 @@
   image: 
   #pmid:
   #pmcid:
-  pdf:https://www.pnas.org/content/pnas/114/26/6776.full.pdf  links:https://www.pnas.org/content/114/26/6776.short
+  pdf: https://www.pnas.org/content/pnas/114/26/6776.full.pdf  
+  links: https://www.pnas.org/content/114/26/6776.short
     - name: PNAS
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary

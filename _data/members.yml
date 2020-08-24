@@ -18,7 +18,7 @@
   scholar: 
   twitter: Nora__Margaret
   orcid: 0000-0002-1466-1286
-  scholar
+  scholar:
   description: ""
   fact: "hello world!"
 
@@ -27,33 +27,65 @@
   position: Graduate student
   pronouns: he/him/his
   email: dmoses5 (at) ucmerced.edu
+  scholar: 
+  twitter: 
+  orcid: 
+  scholar
+  description: ""
+  fact: "hello world!"
 
 - name: Karina Guadalupe
   image: /images/members/Karina.jpg
   position: Graduate student
   pronouns: she/her/hers
   email: kguadalupe (at) ucmerced.edu
+  scholar: 
+  twitter:  
+  orcid: 
+  scholar:
+  description: ""
+  fact: "hello world!"
 
 - name: Feng Yu
   image: /images/members/Feng.jpg
   position: Graduate student
   pronouns: he/him/his
   email: fyu9 (at) ucmerced.edu
+  scholar: 
+  twitter:  
+  orcid: 
+  description: ""
+  fact: "hello world!"
 
 - name: Eduardo Flores
   image: /images/members/Eduardo.jpg
   position: Graduate student
   pronouns: he/him/his
   email: eflores80 (at) ucmerced.edu
+  scholar: 
+  twitter:  
+  orcid: 
+  description: ""
+  fact: "hello world!"
 
 - name: Patrick Koenig
   image: /images/members/Patrick.jpg
   position: Graduate student
   pronouns: he/him/his
   email: pkoenig2 (at) ucmerced.edu
+  scholar: 
+  twitter:  
+  orcid: 
+  description: ""
+  fact: "hello world!"
 
 - name: Adam Rhetta
   image: /images/members/Adam.png
   position: Undergraduate student
   pronouns: he/him/his
   email: arhetta (at) ucmerced.edu
+  scholar: 
+  twitter:  
+  orcid: 
+  description: ""
+  fact: "hello world!"
