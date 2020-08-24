@@ -27,4 +27,17 @@
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
+- title: "**New paper title**"
+  citation: "**Nora Shamoon"
+  date: 202007
+  image: '/images/pub/thompson_2020_1.jpg'
+  #pmid:
+  #pmcid:
+  pdf: '/pdf/thompson_2020_1.pdf'
+  links:
+    - name: bioRxiv entry
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Twitter summary
+      url: http://rodriguez.chem.ucla.edu/
+
 
