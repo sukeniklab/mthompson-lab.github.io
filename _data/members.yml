@@ -16,15 +16,40 @@
   pronouns: she/her/hers
   description: ""
   fact: "hello world!"
+  email: nshamoon (at) ucmerced.edu
   
 - name: David Moses
   image: /images/members/David.jpg
   position: Graduate student
   pronouns: he/him/his
-  email: dmoses (at) ucmerced.edu
+  email: dmoses5 (at) ucmerced.edu
 
 - name: Karina Guadalupe
   image: /images/members/Karina.jpg
   position: Graduate student
   pronouns: she/her/hers
-  email: dmoses (at) ucmerced.edu
+  email: guadalupe (at) ucmerced.edu
+
+- name: Feng Yu
+  image: /images/members/Feng.jpg
+  position: Graduate student
+  pronouns: he/him/his
+  email: fyu9 (at) ucmerced.edu
+
+- name: Eduardo Flores
+  image: /images/members/Eduardo.jpg
+  position: Graduate student
+  pronouns: he/him/his
+  email: eflores80 (at) ucmerced.edu
+
+- name: Patrick Koenig
+  image: /images/members/Patrick.jpg
+  position: Graduate student
+  pronouns: he/him/his
+  email: pkoenig2 (at) ucmerced.edu
+
+- name: Adam Rhetta
+  image: /images/members/Adam.jpg
+  position: Undergraduate student
+  pronouns: he/him/his
+  email: arhetta (at) ucmerced.edu
