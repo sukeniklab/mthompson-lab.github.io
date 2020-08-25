@@ -1,3 +1,19 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+#
+#
+# - citation: "Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015."
+#   date: 201507
+#   image: '/static/img/pub/petek_2015.jpg'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: '/static/pdf/petek_2015.pdf'
+#   pdbs:
+#     - 5XXX
+#   links:
+#     - name: 'Mullins lab'
+#       url: http://mullinslab.ucsf.edu/
+#
+
 - name: Shahar Sukenik
   image: /images/members/shahar.jpg
   position: Principal Investigator
@@ -9,7 +25,6 @@
   description: "Alternating between running the lab and taking care of the kids. Originally from Israel, I did my PhD with Drs Daniel Harries and Assaf Friedler at the Hebrew University, then continued to my Postdoc with Dr Martin Gruebel at Univeristy of Illinois."
   fact: "Lived for three months on an island in the middle of the Zambezi river."
   
-
 - name: Nora M. Shamoon
   image: /images/members/Nora.jpg
   position: Undergraduate researcher
