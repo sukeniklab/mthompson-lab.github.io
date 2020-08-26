@@ -197,7 +197,7 @@
       url: ""
 
 - title: "**Weak protein–protein interactions in live cells are quantified by cell-volume modulation**"
-  citation: "**Shahar Sukenik, Pin Ren, and Martin Gruebelez"
+  citation: "**Shahar Sukenik, Pin Ren, and Martin Gruebele"
   date: 201706
   image: 
   #pmid:
@@ -209,6 +209,109 @@
     - name: Twitter summary
       url: ""
 
+title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Perturbation**"
+  citation: "**Shahar Sukenik, Martin Gruebele"
+  date: 201702
+  image: 
+  #pmid:
+  #pmcid:
+  pdf: https://www.pnas.org/content/pnas/114/26/6776.full.https://www.cell.com/biophysj/pdf/S0006-3495(16)31349-2.pdfhttps://www.pnas.org/content/114/26/6776.short
+  links: https://scholar.google.com/citations?hl=en&user=MID9HCgAAAAJ&view_op=list_works&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DMID9HCgAAAAJ%26sortby%3Dpubdate%26citation_for_view%3DMID9HCgAAAAJ%3Aa3BOlSfXSfwC%26tzom%3D420
+    - name: Biophysical Journal
+      url: ""
+    - name: Twitter summary
+      url: ""
+
+- title: "**TMAO mediates effective attraction between lipid membranes by partitioning unevenly between bulk and lipid domains"
+  citation: Shahar Sukenik, Shaked Dunsky, Avishai Barnoy, Ilan Shumilin, Daniel Harries
+  date: 201700
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:   
+  links: https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp04603k/unauth#!divAbstract
+    - name: Physical Chemistry Chemical Physics
+      url: ""
+    - name: Twitter summary
+      url: ""
+
+- title: "**Globular protein folding in vitro and in vivo"
+  citation: Martin Gruebele, Kapil Dave, Shahar Sukenik
+  date: 201607
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:   
+  links: https://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-062215-011236
+    - name: Annual review of biophysics
+      url: ""
+    - name: Twitter summary
+      url: ""
+
+- title: "**Can Local Probes Go Global? A Joint Experiment–Simulation Analysis of λ6–85 Folding"
+  citation: Shahar Sukenik, Taras V Pogorelov, Martin Gruebele
+  date: 201606
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:   
+  links: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00582
+    - name: The Journal of Physical Chemistry Letters
+      url: ""
+    - name: Twitter summary
+      url: ""
+
+- title: "**The Ec-NhaA antiporter switches from antagonistic to synergistic antiport upon a single point mutation"
+  citation: Manish Dwivedi, Shahar Sukenik, Assaf Friedler, Etana Padan
+  date: 201603
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:   
+  links: https://www.nature.com/articles/srep23339
+    - name: Scientific reports
+      url: ""
+    - name: Twitter summary
+      url: ""
+
+- title: "**Competing processes of micellization and fibrillization in native and reduced casein proteins"
+  citation: Irina Portnaya, Sharon Avni, Ellina Kesselman, Yoav Boyarski, Shahar Sukenik, Daniel Harries, Nily Dan, Uri Cogan, Dganit Danino
+  date: 201600
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:   
+  links: https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04582k/unauth#!divAbstract
+    - name: Physical Chemistry Chemical Physics
+      url: ""
+    - name: Twitter summary
+      url: ""
+
+- title: "**Osmolyte induced changes in peptide conformational ensemble correlate with slower amyloid aggregation: a coarse-grained simulation study"
+  citation: Shahar Sukenik, Liel Sapir, Daniel Harries
+  date: 201512
+  image: 
+  #pmid:
+  #pmcid:
+  pdf:   
+  links: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00657
+    - name: Journal of chemical theory and computation
+      url: ""
+    - name: Twitter summary
+      url: ""
+
+- title: "**Mapping fast protein folding with multiple-site fluorescent probes"
+  citation: Maxim B Prigozhin, Shu-Han Chao, Shahar Sukenik, Taras V Pogorelov, Martin Gruebele
+  date: 201506
+  image: 
+  #pmid:
+  #pmcid:
+  pdf: https://www.pnas.org/content/pnas/112/26/7966.full.pdf  
+  links: 
+    - name: Proceedings of the National Academy of Sciences
+      url: ""
+    - name: Twitter summary
+      url: ""
 
 
 
