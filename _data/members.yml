@@ -20,7 +20,7 @@
   orcid: 0000-0002-1466-1286
   scholar:
   description: ""
-  fact: "I can speak 3 languages, love baking, spending time outdoors and animals!"
+  fact: "I love baking, spending time outdoors and interior deign! Me and my labmate Karina love dogs"
 
 - name: David Moses
   image: /images/members/David.jpg
@@ -31,7 +31,7 @@
   twitter: david_c_moses
   orcid: 0000-0002-5189-5188 
   description: "David studies how intrinsically disordered proteins respond to changes in the solutions that surround them."
-  fact: "hello world!"
+  fact: "David enjoys eating Los Gordos burritos and Jantz Cafe pie with his labmates."
 
 - name: Karina Guadalupe
   image: /images/members/Karina.jpg
@@ -63,9 +63,9 @@
   email: eflores80 (at) ucmerced.edu
   scholar: 
   twitter: eflores_500  
-  orcid: 
-  description: ""
-  fact: "hello world!"
+  orcid: 0000-0002-9337-8461
+  description: "Yes-Associated Protein (YAP) is a largely intrinsically disordered protein that undergoes liquid-liquid phase separation in response to environmental changes such as crowding or pH. YAP also functions as an interaction hub for other proteins such as TEAD, LATS1/2, and TAZ. We are interested to see how changes in solution environment affect structure, function, and selectivity of proteins recruited into YAP droplets."
+  fact: "Outside of lab I love listening to podcasts, running, and soccer! "
 
 - name: Patrick Koenig
   image: /images/members/Patrick.jpg
@@ -74,9 +74,9 @@
   email: pkoenig2 (at) ucmerced.edu
   scholar: 
   twitter:  
-  orcid: 
-  description: ""
-  fact: "hello world!"
+  orcid: 0002-9559-2381 
+  description: "My project deals with Wildtype Adenovirus and its various interactions with its host cell, this includes cytoplasmic/nucleus conditioning and metabolic rewiring. My aims are to introduce fluorescent reporters to identify, in real-time, effects the virus exerts on the cell and how this helps to drive the infection process."
+  fact: "I went to CSU Long Beach for my undergraduate degree in Microbiology."
 
 - name: Adam Rhetta
   image: /images/members/Adam.png
