@@ -14,21 +14,21 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- title: "**Probing the Hidden Sensitivity of Intrinsically   Disordered Proteins to their Chemical Environment**"
-  citation: "**David Moses, Feng Yu, Garrett Ginell, Nora M Shamoon, Patrick S Koenig, Alex S Holehouse, Shahar Sukenik"
+- title: "Probing the Hidden Sensitivity of Intrinsically   Disordered Proteins to their Chemical Environment**"
+  citation: "David Moses*, Feng Yu*, Garrett Ginell, Nora M Shamoon, Patrick S Koenig, Alex S Holehouse, Shahar Sukenik"
   date: 202008
-  image:
+  image: "/images/pub/HiddenSensitivity.png"
   #pmid:
   #pmcid:
-  pdf: https://www.biorxiv.org/content/biorxiv/early/ 2020/08/18/2020.08.17.252478.full.pdf
+  pdf: https://www.biorxiv.org/content/biorxiv/early/2020/08/18/2020.08.17.252478.full.pdf
   links:
     - name: bioRxiv 
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
       url: http://rodriguez.chem.ucla.edu/
 
-- title: "**Hydration-dependent phase separation of a prion-like protein regulates seed germination during water stress.**"
-  citation: "**Yanniv Dorone, Steven Boeynaems, Benjamin Jin, Flavia Bossi, Eduardo Flores, Elena Lazarus, Emiel Michiels, Mathias De Decker, Pieter Baatsen, Alex S Holehouse, Shahar Sukenik, Aaron D Gitler, Seung Y Rhee"
+- title: "Hydration-dependent phase separation of a prion-like protein regulates seed germination during water stress."
+  citation: "Yanniv Dorone, Steven Boeynaems, Benjamin Jin, Flavia Bossi, Eduardo Flores, Elena Lazarus, Emiel Michiels, Mathias De Decker, Pieter Baatsen, Alex S Holehouse, Shahar Sukenik, Aaron D Gitler, Seung Y Rhee"
   date: 202008
   image: 
   #pmid:
@@ -60,7 +60,7 @@
   #pmid:
   #pmcid:
   pdf: 
-  links: https://www.cell.com/biophysj/fulltext/S0006-3495(19)31436-5
+  links: 
     - name: Biophysical Journal
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
@@ -125,7 +125,7 @@
   #pmid:
   #pmcid:
   pdf:
-  links: https://scholar.google.com/scholar?hl=en&as_sdt=0,5&cluster=7265918865197242157
+  links: 
     - name: MOLECULAR BIOLOGY OF THE CELL
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
@@ -203,7 +203,7 @@
   #pmid:
   #pmcid:
   pdf: https://www.pnas.org/content/pnas/114/26/6776.full.pdf  
-  links: https://www.pnas.org/content/114/26/6776.short
+  links: 
     - name: PNAS
       url: https://yeateslab.mbi.ucla.edu/
     - name: Twitter summary
