@@ -14,13 +14,13 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- title: "**Probing the Hidden Sensitivity of Intrinsically   Disordered Proteins to their Chemical Environment**"
+- title: Probing the Hidden Sensitivity of Intrinsically   Disordered Proteins to their Chemical Environment
   citation: "**David Moses, Feng Yu, Garrett Ginell, Nora M Shamoon, Patrick S Koenig, Alex S Holehouse, Shahar Sukenik"
   date: 202008
   image:
   #pmid:
   #pmcid:
-  pdf: https://www.biorxiv.org/content/biorxiv/early/ 2020/08/18/2020.08.17.252478.full.pdf
+  pdf: https://www.biorxiv.org/content/biorxiv/early/2020/08/18/2020.08.17.252478.full.pdf
   links:
     - name: bioRxiv 
       url: ""
@@ -49,19 +49,6 @@
   pdf: biorxiv.org/content/biorxiv/early/2019/08/30/752378.full.pdf
   links:
     - name: Journal of Chemical Theory and Computation
-      url: ""
-    - name: Twitter summary
-      url: ""
-
-- title: "**Solution Space Fingerprints of Intrinsically Disordered Regions**"
-  citation: "**David Moses, Nora Shamoon, Shahar Sukenik"
-  date: 202002
-  image: 
-  #pmid:
-  #pmcid:
-  pdf: 
-  links: https://www.cell.com/biophysj/fulltext/S0006-3495(19)31436-5
-    - name: Biophysical Journal
       url: ""
     - name: Twitter summary
       url: ""
@@ -114,19 +101,6 @@
   pdf:
   links:
     - name: Reference Module in Chemistry, Molecular Sciences and Chemical Engineering
-      url: ""
-    - name: Twitter summary
-      url: ""
-
-- title: "**Phase Separation of YAP in Osmotic Stress Transiently Shuts Down Transcription and Primes YAP for Long-term Target Gene Expression**"
-  citation: "**D Cai, S Sukenik, D Feliciano, M Gruebele, J Lippincott-Schwartz"
-  date: 201812
-  image: 
-  #pmid:
-  #pmcid:
-  pdf:
-  links: https://scholar.google.com/scholar?hl=en&as_sdt=0,5&cluster=7265918865197242157
-    - name: MOLECULAR BIOLOGY OF THE CELL
       url: ""
     - name: Twitter summary
       url: ""
@@ -203,22 +177,9 @@
   #pmid:
   #pmcid:
   pdf: https://www.pnas.org/content/pnas/114/26/6776.full.pdf  
-  links: https://www.pnas.org/content/114/26/6776.short
+  links: 
     - name: PNAS
-      url: ""
-    - name: Twitter summary
-      url: ""
-
-title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Perturbation**"
-  citation: "**Shahar Sukenik, Martin Gruebele"
-  date: 201702
-  image: 
-  #pmid:
-  #pmcid:
-  pdf: https://www.pnas.org/content/pnas/114/26/6776.full.https://www.cell.com/biophysj/pdf/S0006-3495(16)31349-2.pdfhttps://www.pnas.org/content/114/26/6776.short
-  links: https://scholar.google.com/citations?hl=en&user=MID9HCgAAAAJ&view_op=list_works&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DMID9HCgAAAAJ%26sortby%3Dpubdate%26citation_for_view%3DMID9HCgAAAAJ%3Aa3BOlSfXSfwC%26tzom%3D420
-    - name: Biophysical Journal
-      url: ""
+      url: "https://www.pnas.org/content/114/26/6776.short"
     - name: Twitter summary
       url: ""
 
@@ -229,9 +190,9 @@ title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Pe
   #pmid:
   #pmcid:
   pdf:   
-  links: https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp04603k/unauth#!divAbstract
+  links: 
     - name: Physical Chemistry Chemical Physics
-      url: ""
+      url: "https://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp04603k/unauth#!divAbstract"
     - name: Twitter summary
       url: ""
 
@@ -242,9 +203,9 @@ title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Pe
   #pmid:
   #pmcid:
   pdf:   
-  links: https://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-062215-011236
+  links: 
     - name: Annual review of biophysics
-      url: ""
+      url: "https://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-062215-011236"
     - name: Twitter summary
       url: ""
 
@@ -255,9 +216,9 @@ title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Pe
   #pmid:
   #pmcid:
   pdf:   
-  links: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00582
+  links: 
     - name: The Journal of Physical Chemistry Letters
-      url: ""
+      url: "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00582"
     - name: Twitter summary
       url: ""
 
@@ -268,9 +229,9 @@ title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Pe
   #pmid:
   #pmcid:
   pdf:   
-  links: https://www.nature.com/articles/srep23339
+  links: 
     - name: Scientific reports
-      url: ""
+      url: "https://www.nature.com/articles/srep23339"
     - name: Twitter summary
       url: ""
 
@@ -281,9 +242,9 @@ title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Pe
   #pmid:
   #pmcid:
   pdf:   
-  links: https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04582k/unauth#!divAbstract
+  links: 
     - name: Physical Chemistry Chemical Physics
-      url: ""
+      url: "https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04582k/unauth#!divAbstract"
     - name: Twitter summary
       url: ""
 
@@ -294,9 +255,9 @@ title: "**Probing Protein Folding and Interaction in Live Cells using Osmotic Pe
   #pmid:
   #pmcid:
   pdf:   
-  links: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00657
+  links: 
     - name: Journal of chemical theory and computation
-      url: ""
+      url: "https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00657"
     - name: Twitter summary
       url: ""
 
