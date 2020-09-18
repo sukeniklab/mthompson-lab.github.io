@@ -3270,8 +3270,8 @@ body.subpage {
 		padding-right: 1em;
 	}
 	#header > .logo img {
-		width: 96px;
-		height: 34px;
+		width: 291px;
+		height: 29px;
 	}
 
 }
@@ -3334,8 +3334,8 @@ body.subpage {
 		font-size: 1em;
 	}
 	#header > .logo img {
-		width: 96px;
-		height: 34px;
+		width: 291px;
+		height: 29px;
 	}
 
 }
@@ -3562,8 +3562,8 @@ nav .navNarrow .narrowLinks a {
 	}
 
 	#header > .logo img {
-		width: 80px;
-		height: 28px;
+	width: 291px;
+	height: 29px;
 	}
 }
 
@@ -4049,6 +4049,14 @@ body.is-mobile .banner > article {
 	height: auto;
 	max-width: 100px;
 	width: auto;
+}
+
+.HomepageBox .image.fit2 img {
+	border-radius: 0;
+	position: relative;
+	height: auto;
+	max-width: 100px;
+	width: 100%;
 }
 
 .HomepageBox #image2.fit img {
