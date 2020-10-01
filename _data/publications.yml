@@ -14,7 +14,7 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- title: Probing the Hidden Sensitivity of Intrinsically   Disordered Proteins to their Chemical Environment
+- title: Probing the Hidden Sensitivity of Intrinsically Disordered Proteins to their Chemical Environment
   citation: "**David Moses, Feng Yu, Garrett Ginell, Nora M Shamoon, Patrick S Koenig, Alex S Holehouse, Shahar Sukenik"
   date: 202008
   image: /images/pub/HiddenSensitivity.png
@@ -56,7 +56,7 @@
 - title: "**Phase separation of YAP reorganizes genome topology for long-term YAP target gene expression**"
   citation: "**Danfeng Cai, Daniel Feliciano, Peng Dong, Eduardo Flores, Martin Gruebele, Natalie Porat-Shliom, Shahar Sukenik, Zhe Liu, Jennifer Lippincott-Schwartz"
   date: 201912
-  image: 
+  image: /images/pub/YapTopology2019.png
   #pmid:
   #pmcid:
   pdf: https://www.biorxiv.org/content/10.1101/438416v2.full 
@@ -121,7 +121,7 @@
 - title: "**In-cell titration of small solutes controls protein stability and aggregation**"
   citation: "**Shahar Sukenik, Mohammed Salam, Yuhan Wang, Martin Gruebele"
   date: 201807
-  image: 
+  image: /images/pub/InCellSmallSolutes.png
   #pmid:
   #pmcid:
   pdf: https://pubs.acs.org/doi/full/10.1021/jacs.8b04809
@@ -147,7 +147,7 @@
 - title: "**How does solvation in the cell affect protein folding and binding?**"
   citation: "**Caitlin M Davis, Martin Gruebele, Shahar Sukenik"
   date: 201802
-  image: 
+  image: /images/pub/InCellSolvation2018.png
   #pmid:
   #pmcid:
   pdf: https://www.sciencedirect.com/science/article/abs/pii/S0959440X17301112
